@@ -57,7 +57,7 @@ Minha abordagem é prática e focada em resultados, o que me permitiu um rápido
 *Atualmente, estou construindo um portfólio robusto com projetos práticos que demonstram minhas habilidades. Fique atento para atualizações!*
 
 * **Projeto de Previsão de Churn de Clientes:** Uma análise completa do problema de churn, desde a ingestão de dados massivos no BigQuery, passando por EDA aprofundada com Looker Studio e modelagem preditiva avançada com Python e Machine Learning.
-    * *[Link para o Repositório do Projeto de Churn (será criado em breve)]*
+    * * [Repositório do Projeto]([https://github.com/mariliasarmento-py/customer-churn-prediction](https://github.com/mariliasarmento-py/previsao-churn-clientes)) 
     * *[Link para o Dashboard no Looker Studio (se público, será criado em breve)]*
 
 ### 🔗 Conecte-se comigo
